@@ -1,0 +1,6 @@
+framework module OpenWeatherSwift {
+  umbrella header "OpenWeatherSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
